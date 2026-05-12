@@ -17,5 +17,33 @@
       "statistics"
     ],
     "server_num": 16
+  },
+  "aweesha": {
+    "username": "aweesha",
+    "password": "12121Aweeshaesam.",
+    "student_type": "علمي",
+    "telegram_user_id": "8293581851",
+    "telegram_username": "Danoaa0006",
+    "telegram_first_name": "𝐷𝒶𝓃𝑜 𝐸𝓈.",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_68.jpg",
+    "session_id": "025d6986-5af6-49a0-b945-314d7b727dee",
+    "created_at": "2026-05-11T23:41:08.693264",
+    "verified": true,
+    "last_login": "2026-05-11T23:43:59.865361",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "english",
+      "it",
+      "statistics",
+      "math",
+      "chemistry",
+      "physics_electric",
+      "physics_mechanic",
+      "biology",
+      "literary_studies",
+      "linguistic_studies"
+    ],
+    "server_num": 16
   }
 }
